@@ -1,5 +1,7 @@
 #EXTM3U url-logos="https://cdn.jsdelivr.net/gh/BurningC4/tvg-logo@master/"
 
+央视,#genre#
+
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="cctv1.png",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 
@@ -54,6 +56,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="cctv17.png",CCTV-17 农业农村
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
+卫视,#genre#
 #EXTINF:-1 tvg-id="anhui" tvg-logo="anhui.png",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 
