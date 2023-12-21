@@ -212,6 +212,7 @@ http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225500/index.m3u8
+https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=23aa164162453db8ecf1e8c49aa1fdd7&volcTime=1703239391
 
 #EXTINF:-1 tvg-id="dongnan" tvg-logo="dongnan.png" group-title="卫视",东南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
